@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['i2cmaster',['I2CMaster',['../classI2CMaster.html',1,'']]],
-  ['intfield',['IntField',['../classIntField.html',1,'']]],
-  ['irreceiver',['IRreceiver',['../classIRreceiver.html',1,'']]]
+  ['rtc',['RTC',['../classRTC.html',1,'']]],
+  ['rtcalarm',['RTCAlarm',['../structRTCAlarm.html',1,'']]],
+  ['rtcdate',['RTCDate',['../structRTCDate.html',1,'']]],
+  ['rtctime',['RTCTime',['../structRTCTime.html',1,'']]]
 ];

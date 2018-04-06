@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['hash',['Hash',['../classHash.html',1,'']]]
+  ['melody',['Melody',['../classMelody.html',1,'']]]
 ];
