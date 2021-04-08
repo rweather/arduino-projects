@@ -7,7 +7,7 @@ that I have made for Arduino, covering a variety of tasks from blinking LED's
 to LCD's and RTC-based alarm clocks.  They are distributed under the
 terms of the MIT license.
 
-The [documentation](http://rweather.github.com/arduino-projects/index.html)
+The [documentation](http://rweather.github.io/arduino-projects/index.html)
 contains more information on the libraries and examples.
 
 If you are looking for my cryptography libraries for Arduino, then they
